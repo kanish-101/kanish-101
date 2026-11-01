@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm David Wanjiku 👋
 
-<!--
-**kanish-101/kanish-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Software Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about technology, software development, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously learning, experimenting with new technologies, and building practical projects that strengthen my technical skills.
+
+### 🚀 About Me
+- 🎓 Studying Computer Science
+- 💻 Interested in Software Development and Cybersecurity
+- 🔐 Exploring ethical hacking and information security
+- 🤖 Interested in Artificial Intelligence and emerging technologies
+- 🌱 Always learning and building
+
+### 🛠️ Technologies & Tools
+- Programming: C, Java, JavaScript
+- Web Development: HTML, CSS, React, Next.js
+- Tools: Git, GitHub, VS Code
+- Currently exploring: Linux, Networking and Cybersecurity
+
+### 🎯 Current Focus
+- Strengthening my programming foundations
+- Building practical software projects
+- Developing cybersecurity skills
+- Contributing to collaborative projects
+
+### 🤝 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/david-wanjiku-464041329/
+- GitHub: https://github.com/kanish-101
+
+---
+*Learning continuously. Building consistently. Growing technically.*
